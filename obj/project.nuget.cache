@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hz6OQhf7vyE=",
+  "success": true,
+  "projectFilePath": "/home/tiagobastos/webapps/webapp_net10/webapp_net10.csproj",
+  "expectedPackageFiles": [
+    "/home/tiagobastos/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.0/microsoft.aspnetcore.app.internal.assets.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
